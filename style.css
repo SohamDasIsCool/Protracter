@@ -14,7 +14,7 @@ body{
 }
 .copy_right_footer{
 position: fixed;
-color: rgb(51, 51, 235);
+color: rgb(255, 255, 255);
 box-shadow: 10px 5px 5px rgb(22, 20, 20) inset;
 bottom:0;
 width:100%;
